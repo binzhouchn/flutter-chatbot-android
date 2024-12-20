@@ -1,0 +1,102 @@
+0.3.1 (2024-12-17)
+
+    * Add: Workspace.
+    * Improve: Input Widget.
+
+    * 增加：工作空间
+    * 改进：输入组件
+
+0.2.10 (2024-12-13)
+
+    * Add: Checking for updates.
+    * Improve: Images display.
+
+    * 增加：检查更新
+    * 改进：图片显示
+
+0.2.9 (2024-12-13)
+
+    * Add: Google Search support (gemini-2.0-flash-exp only)
+    * Add: Support for sending multiple images.
+
+    * 增加：支持 GoogleSearch（仅 gemini-2.0-flash-exp）
+    * 增加：支持发送多张图片
+
+0.2.8 (2024-12-09)
+
+    * Add: Support Google Gemini API.
+    * Improve: Chat Response.
+
+    * 增加：支持 Google Gemini 接口
+    * 改进：对话响应
+
+0.2.7 (2024-12-06)
+
+    * Add: Export chat as image.
+    * Improve: Refine UI details.
+
+    * 增加：将对话导出为图片
+    * 改进：调整了界面细节
+
+0.2.6 (2024-12-04)
+
+    * Improve: LaTeX Rendering.
+
+    * 改进：LaTeX 渲染
+
+0.2.5 (2024-12-04)
+
+    * Add: Image Generation.
+    * Improve: Message List.
+    * Improve: Configuration Loading and Export.
+
+    * 增加：图像生成
+    * 改进：消息列表
+    * 改进：配置加载及导出
+
+0.2.4 (2024-11-29)
+
+    * Add: Image compression controls.
+    * Improve: Redesigned settings page.
+
+    * 增加：图片压缩控制
+    * 改进：重新设计的设置页
+
+0.2.3 (2024-11-27)
+
+    * Add: A new app icon.
+    * Improve: Remove unnecessary animations.
+
+    * 增加：新的应用图标
+    * 改进：删除不必要的动画
+
+0.2.2 (2024-11-25)
+
+    * Add: Chat clone and clear functionality.
+    * Improve: More animations.
+
+    * 增加：对话复制和清空
+    * 改进：更多动画
+
+0.2.1 (2024-11-23)
+
+    * Improve: The Reanswering can be stopped.
+
+    * 改进：可以终止重新回答
+
+
+0.2.0 (2024-11-23)
+
+    * Add: Reanswer.
+    * Improve: TTS button.
+
+    * 增加：重新回答
+    * 改进：文本转语音按钮
+
+0.1.11 (2024-11-22)
+
+    * Add: More informative error messages.
+    * Improve: Style of the Message Widget.
+
+    * 增加：更多错误提示
+    * 改进：消息卡片组件样式
